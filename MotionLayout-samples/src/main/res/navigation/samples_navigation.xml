@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/samples_navigation"
+    app:startDestination="@id/samplesListFragment">
+
+    <fragment
+        android:id="@+id/samplesListFragment"
+        android:name="com.nosort.samples.SamplesListFragment"
+        android:label="fragment_samples_list"
+        tools:layout="@layout/fragment_samples_list">
+        <action
+            android:id="@+id/action_samplesListFragment_to_previewFragment"
+            app:destination="@id/previewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/previewFragment"
+        android:name="com.nosort.samples.PreviewFragment"
+        android:label="fragment_preview"
+        tools:layout="@layout/fragment_preview">
+        <argument
+            android:name="layoutId"
+            android:defaultValue="0"
+            app:argType="integer" />
+        <argument
+            android:name="showPaths"
+            android:defaultValue="false"
+            app:argType="boolean" />
+    </fragment>
+</navigation>

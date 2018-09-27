@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Sep 27 15:36:14 IST 2018
+0.baseType=DIRECTORY
+0.base=/Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/MotionLayout-samples/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
