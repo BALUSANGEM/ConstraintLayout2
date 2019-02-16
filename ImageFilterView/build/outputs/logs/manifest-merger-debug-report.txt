@@ -1,157 +1,157 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/bala/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/32b4a9029c71e1124afae1381a6a38a4/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/e6405e66cf1e532998a67228b682ed1c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/bala/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/7b0739dad99dd5191855277c7bba90c8/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f9fd9a6fdea33a308658012ffb063a66/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/963352f48dff7d918592bf4e3d9fda38/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/0fbe7ad878a4a76b477c2eab94bd3717/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/de03eb4037746dbb4d7aa99742b0f5fb/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a62c5478682dfb4c913e70889ca76ac4/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6177c36bd238f6c3c0e908276f0d6793/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9d2ec9e239e8ed26544bef3d5d09698e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/a2dff87b6da29ca84e842ed70b5de715/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3828e4a1ffe87feb98154277ab53eeca/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/53e9a5210c9895f0e4d292693e076815/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/fcae464b4150832d64af8af1bf3f520f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d78d7b601f9011b79a81b503b867a235/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/13e262ef6b524a918da2b9581f42ff64/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0ce5f61426ab79ab456193e099dacb1a/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/571b5423919e15255f1d4228ff6c360c/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/c7a9fbc31f2a4716ca04737bb70c538f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8f2b14ccbd7fe6d39ee4e7f402e3d2b1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2e1ba00d7195bcc0cb9733f52658c437/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3e6045d29c3c108dac7a0b4802103605/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/b680388dd5eac261e22f76cbcc8ddc32/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f42c0fdcc2650e41be5b7f281682437f/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/9ff70a73457e7c178c9a08ff1228e04c/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/cb92d17c9db0e29ebee29eff54d8d18e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/57ad2c0bb1347ec3e2be805fec26ffa6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6fc0bed01cc2e31d593c976a3a1ea031/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/bala/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/6ac456b640a8d05791a5df3c32b26f2f/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/7acde86ee49a08f424553230e149c9c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/bala/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/c9d085c6a80bccee42f12b5043a7dade/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/4a04c11d82f87818dbb1e03e96407443/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1896b4111d44577f1d7de9e7f5f1f000/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/912507c20e0dfaff9e3b580524af2fc6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/cf907f5e103795dbdf1de7fce0b035e7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2e2f305b402b4f4890e3f0762dbb1f1e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/33b19af7ab76e53048b06e48c64737ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/d1ed7a8747226597a5d84114f66e0586/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/f260f29acb29f82e6fbb7ba52f87c8ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a9afeefe965d4dfd23b31c15501a95b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2e5c92b27e975ffc3802f015814f3eb8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3b76dbb0cf8c46c08779ce8a70757908/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/caffd2ee72194f134ac90bfc31d15920/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/0ddbee377e9ac12336c85c6b9b1a1cfb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/753e8c8f8e05364ff3070d26d4234594/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f1bd0bce9a7b280e720c1232fd7912ef/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cacaa86167dd01d4651452136799de7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/4bdeded1479d4b4688044d7d448cca49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/97627b6794cb02f0dae6b65821a26de8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f86299251117a8bce6f1ce7569e19f33/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3487063ca7d166bb0c98307791c7245c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/0eae112c81716057bd97f2292bf37d03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/76d1e1f2c1e9cfc92d84819df9d1717e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d593dd864bc97337e3cbc0551aaea5f9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3b5ad1c90e0997f34e3d61d825d8f1d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/54c46a8776e41418d08117600097d550/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:3:5-43
-		INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
-		INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
+		INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
+		INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
+		INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:5:5-19:19
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/bala/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/32b4a9029c71e1124afae1381a6a38a4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/bala/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/32b4a9029c71e1124afae1381a6a38a4/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0ce5f61426ab79ab456193e099dacb1a/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0ce5f61426ab79ab456193e099dacb1a/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/571b5423919e15255f1d4228ff6c360c/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/571b5423919e15255f1d4228ff6c360c/AndroidManifest.xml:22:5-23:19
+ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/bala/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/6ac456b640a8d05791a5df3c32b26f2f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/bala/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/6ac456b640a8d05791a5df3c32b26f2f/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/753e8c8f8e05364ff3070d26d4234594/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/753e8c8f8e05364ff3070d26d4234594/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f1bd0bce9a7b280e720c1232fd7912ef/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f1bd0bce9a7b280e720c1232fd7912ef/AndroidManifest.xml:22:5-23:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0ce5f61426ab79ab456193e099dacb1a/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/753e8c8f8e05364ff3070d26d4234594/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:11:9-40
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:11:9-40
 activity#org.avantari.imagefilterview.MainActivity
-ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/bala/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/32b4a9029c71e1124afae1381a6a38a4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/bala/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/32b4a9029c71e1124afae1381a6a38a4/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/e6405e66cf1e532998a67228b682ed1c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/e6405e66cf1e532998a67228b682ed1c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/bala/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/7b0739dad99dd5191855277c7bba90c8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/bala/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/7b0739dad99dd5191855277c7bba90c8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f9fd9a6fdea33a308658012ffb063a66/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/f9fd9a6fdea33a308658012ffb063a66/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/963352f48dff7d918592bf4e3d9fda38/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/963352f48dff7d918592bf4e3d9fda38/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/0fbe7ad878a4a76b477c2eab94bd3717/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/0fbe7ad878a4a76b477c2eab94bd3717/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/de03eb4037746dbb4d7aa99742b0f5fb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/de03eb4037746dbb4d7aa99742b0f5fb/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a62c5478682dfb4c913e70889ca76ac4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/a62c5478682dfb4c913e70889ca76ac4/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6177c36bd238f6c3c0e908276f0d6793/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/6177c36bd238f6c3c0e908276f0d6793/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9d2ec9e239e8ed26544bef3d5d09698e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/9d2ec9e239e8ed26544bef3d5d09698e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/a2dff87b6da29ca84e842ed70b5de715/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/a2dff87b6da29ca84e842ed70b5de715/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3828e4a1ffe87feb98154277ab53eeca/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/3828e4a1ffe87feb98154277ab53eeca/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/53e9a5210c9895f0e4d292693e076815/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/53e9a5210c9895f0e4d292693e076815/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/fcae464b4150832d64af8af1bf3f520f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/fcae464b4150832d64af8af1bf3f520f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d78d7b601f9011b79a81b503b867a235/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/d78d7b601f9011b79a81b503b867a235/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/13e262ef6b524a918da2b9581f42ff64/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/13e262ef6b524a918da2b9581f42ff64/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0ce5f61426ab79ab456193e099dacb1a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/0ce5f61426ab79ab456193e099dacb1a/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/571b5423919e15255f1d4228ff6c360c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/571b5423919e15255f1d4228ff6c360c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/c7a9fbc31f2a4716ca04737bb70c538f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/c7a9fbc31f2a4716ca04737bb70c538f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8f2b14ccbd7fe6d39ee4e7f402e3d2b1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/8f2b14ccbd7fe6d39ee4e7f402e3d2b1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2e1ba00d7195bcc0cb9733f52658c437/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/2e1ba00d7195bcc0cb9733f52658c437/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3e6045d29c3c108dac7a0b4802103605/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/3e6045d29c3c108dac7a0b4802103605/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/b680388dd5eac261e22f76cbcc8ddc32/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/b680388dd5eac261e22f76cbcc8ddc32/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f42c0fdcc2650e41be5b7f281682437f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/f42c0fdcc2650e41be5b7f281682437f/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/9ff70a73457e7c178c9a08ff1228e04c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/9ff70a73457e7c178c9a08ff1228e04c/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/cb92d17c9db0e29ebee29eff54d8d18e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/cb92d17c9db0e29ebee29eff54d8d18e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/57ad2c0bb1347ec3e2be805fec26ffa6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/57ad2c0bb1347ec3e2be805fec26ffa6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6fc0bed01cc2e31d593c976a3a1ea031/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/6fc0bed01cc2e31d593c976a3a1ea031/AndroidManifest.xml:20:5-44
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
-INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/bala/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/6ac456b640a8d05791a5df3c32b26f2f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/bala/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/6ac456b640a8d05791a5df3c32b26f2f/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/7acde86ee49a08f424553230e149c9c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/7acde86ee49a08f424553230e149c9c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/bala/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/c9d085c6a80bccee42f12b5043a7dade/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /Users/bala/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0-rc01.aar/c9d085c6a80bccee42f12b5043a7dade/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/4a04c11d82f87818dbb1e03e96407443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/4a04c11d82f87818dbb1e03e96407443/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1896b4111d44577f1d7de9e7f5f1f000/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/1896b4111d44577f1d7de9e7f5f1f000/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/912507c20e0dfaff9e3b580524af2fc6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.0.aar/912507c20e0dfaff9e3b580524af2fc6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/cf907f5e103795dbdf1de7fce0b035e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/cf907f5e103795dbdf1de7fce0b035e7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2e2f305b402b4f4890e3f0762dbb1f1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/2e2f305b402b4f4890e3f0762dbb1f1e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/33b19af7ab76e53048b06e48c64737ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/33b19af7ab76e53048b06e48c64737ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/d1ed7a8747226597a5d84114f66e0586/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/d1ed7a8747226597a5d84114f66e0586/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/f260f29acb29f82e6fbb7ba52f87c8ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/f260f29acb29f82e6fbb7ba52f87c8ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a9afeefe965d4dfd23b31c15501a95b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/a9afeefe965d4dfd23b31c15501a95b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2e5c92b27e975ffc3802f015814f3eb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/2e5c92b27e975ffc3802f015814f3eb8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3b76dbb0cf8c46c08779ce8a70757908/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/3b76dbb0cf8c46c08779ce8a70757908/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/caffd2ee72194f134ac90bfc31d15920/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/caffd2ee72194f134ac90bfc31d15920/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/0ddbee377e9ac12336c85c6b9b1a1cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/0ddbee377e9ac12336c85c6b9b1a1cfb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/753e8c8f8e05364ff3070d26d4234594/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/753e8c8f8e05364ff3070d26d4234594/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f1bd0bce9a7b280e720c1232fd7912ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/f1bd0bce9a7b280e720c1232fd7912ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cacaa86167dd01d4651452136799de7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cacaa86167dd01d4651452136799de7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/4bdeded1479d4b4688044d7d448cca49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/4bdeded1479d4b4688044d7d448cca49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/97627b6794cb02f0dae6b65821a26de8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/97627b6794cb02f0dae6b65821a26de8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f86299251117a8bce6f1ce7569e19f33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/f86299251117a8bce6f1ce7569e19f33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3487063ca7d166bb0c98307791c7245c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3487063ca7d166bb0c98307791c7245c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/0eae112c81716057bd97f2292bf37d03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/0eae112c81716057bd97f2292bf37d03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/76d1e1f2c1e9cfc92d84819df9d1717e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/76d1e1f2c1e9cfc92d84819df9d1717e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d593dd864bc97337e3cbc0551aaea5f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/d593dd864bc97337e3cbc0551aaea5f9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3b5ad1c90e0997f34e3d61d825d8f1d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/3b5ad1c90e0997f34e3d61d825d8f1d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/54c46a8776e41418d08117600097d550/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bala/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/54c46a8776e41418d08117600097d550/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
+INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
-		INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
+		INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
+		INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
-		ADDED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
-		INJECTED from /Users/bala/Documents/Open/MotionLayout/ConstraintLayout2.0/ImageFilterView/src/main/AndroidManifest.xml
+		INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
+		ADDED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
+		INJECTED from /Users/bala/Documents/ConstraintLayout2/ImageFilterView/src/main/AndroidManifest.xml
